@@ -887,7 +887,7 @@ void printMainMenu() {
 /*LOAD DEFAULT SONGS*/
 
     void loadDefaultSongs() {
-    addSong("Oorum Blood", "Abhyankkar", "Pop", 269,
+    addSong("Oorum Blood", "Abhyankkar", "Indian-Pop", 269,
         "songs\\oorum_blood.mp3");
 
     addSong("Aaya Sher", "Anirudh", "Folk", 213,
@@ -904,6 +904,12 @@ void printMainMenu() {
 
     addSong("Star Wars", "Cantina Bands", "Jazz", 165,
         "songs\\star_wars.mp3");
+
+    addSong("Starboy", "The Weekend", "R&B", 273,
+            "songs\\starboy.mp3");
+
+    addSong("They call him OG- Firestorm", "Silambarasan TR", "EDM", 246,
+            "songs\\firestorm.mp3");
 }
 
 /*MAIN*/
