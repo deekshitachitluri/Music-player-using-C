@@ -1,0 +1,17 @@
+# Build output
+bin/
+obj/
+
+# Executables
+*.exe
+
+# Code::Blocks
+*.layout
+*.depend
+
+# Object files
+*.o
+*.obj
+
+# Audio files
+songs/*.mp3
